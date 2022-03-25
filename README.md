@@ -1,2 +1,2 @@
-# -Visualizing-Data
+# Visualizing-Data
 Data analysis using visualization tools
